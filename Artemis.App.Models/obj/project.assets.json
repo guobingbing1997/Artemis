@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gbb10\\source\\repos\\Artemis.Host\\Artemis.App.Models\\Artemis.App.Models.csproj",
+      "projectUniqueName": "D:\\学习\\Artemis\\Artemis.App.Models\\Artemis.App.Models.csproj",
       "projectName": "Artemis.App.Models",
-      "projectPath": "C:\\Users\\gbb10\\source\\repos\\Artemis.Host\\Artemis.App.Models\\Artemis.App.Models.csproj",
+      "projectPath": "D:\\学习\\Artemis\\Artemis.App.Models\\Artemis.App.Models.csproj",
       "packagesPath": "C:\\Users\\gbb10\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gbb10\\source\\repos\\Artemis.Host\\Artemis.App.Models\\obj\\",
+      "outputPath": "D:\\学习\\Artemis\\Artemis.App.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

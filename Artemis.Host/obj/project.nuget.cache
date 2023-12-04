@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HjRilXJp7DU9tp08tjkjlpD7eqKhjhxIk5UOIo8lZcwEFrdinZjTLXmkmyvYQcsQFOOVgtcHdzIfyYu8YdAMLA==",
+  "dgSpecHash": "OsbTrP6vZIc36qSGzP64l/e5VaaVpd7C7GrgPKgKUcnXEr7l47B8nqJnsOl+UNZrFk6C/BfuzdjUu7pbprxOlA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gbb10\\source\\repos\\Artemis.Host\\Artemis.Host\\Artemis.Host.csproj",
+  "projectFilePath": "D:\\学习\\Artemis\\Artemis.Host\\Artemis.Host.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gbb10\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\gbb10\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
