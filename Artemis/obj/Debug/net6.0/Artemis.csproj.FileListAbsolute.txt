@@ -1,0 +1,12 @@
+C:\Users\gbb10\source\repos\Artemis.Host\Artemis\bin\Debug\net6.0\Artemis.deps.json
+C:\Users\gbb10\source\repos\Artemis.Host\Artemis\bin\Debug\net6.0\Artemis.dll
+C:\Users\gbb10\source\repos\Artemis.Host\Artemis\bin\Debug\net6.0\Artemis.pdb
+C:\Users\gbb10\source\repos\Artemis.Host\Artemis\obj\Debug\net6.0\Artemis.csproj.AssemblyReference.cache
+C:\Users\gbb10\source\repos\Artemis.Host\Artemis\obj\Debug\net6.0\Artemis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gbb10\source\repos\Artemis.Host\Artemis\obj\Debug\net6.0\Artemis.AssemblyInfoInputs.cache
+C:\Users\gbb10\source\repos\Artemis.Host\Artemis\obj\Debug\net6.0\Artemis.AssemblyInfo.cs
+C:\Users\gbb10\source\repos\Artemis.Host\Artemis\obj\Debug\net6.0\Artemis.csproj.CoreCompileInputs.cache
+C:\Users\gbb10\source\repos\Artemis.Host\Artemis\obj\Debug\net6.0\Artemis.dll
+C:\Users\gbb10\source\repos\Artemis.Host\Artemis\obj\Debug\net6.0\refint\Artemis.dll
+C:\Users\gbb10\source\repos\Artemis.Host\Artemis\obj\Debug\net6.0\Artemis.pdb
+C:\Users\gbb10\source\repos\Artemis.Host\Artemis\obj\Debug\net6.0\ref\Artemis.dll

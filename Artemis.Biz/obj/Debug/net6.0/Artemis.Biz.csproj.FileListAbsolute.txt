@@ -1,0 +1,17 @@
+C:\Users\gbb10\source\repos\Artemis.Host\Artemis.Biz\bin\Debug\net6.0\Artemis.Biz.deps.json
+C:\Users\gbb10\source\repos\Artemis.Host\Artemis.Biz\bin\Debug\net6.0\Artemis.Biz.dll
+C:\Users\gbb10\source\repos\Artemis.Host\Artemis.Biz\bin\Debug\net6.0\Artemis.Biz.pdb
+C:\Users\gbb10\source\repos\Artemis.Host\Artemis.Biz\bin\Debug\net6.0\Artemis.Dal.dll
+C:\Users\gbb10\source\repos\Artemis.Host\Artemis.Biz\bin\Debug\net6.0\Artemis.Dal.pdb
+C:\Users\gbb10\source\repos\Artemis.Host\Artemis.Biz\obj\Debug\net6.0\Artemis.Biz.csproj.AssemblyReference.cache
+C:\Users\gbb10\source\repos\Artemis.Host\Artemis.Biz\obj\Debug\net6.0\Artemis.Biz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gbb10\source\repos\Artemis.Host\Artemis.Biz\obj\Debug\net6.0\Artemis.Biz.AssemblyInfoInputs.cache
+C:\Users\gbb10\source\repos\Artemis.Host\Artemis.Biz\obj\Debug\net6.0\Artemis.Biz.AssemblyInfo.cs
+C:\Users\gbb10\source\repos\Artemis.Host\Artemis.Biz\obj\Debug\net6.0\Artemis.Biz.csproj.CoreCompileInputs.cache
+C:\Users\gbb10\source\repos\Artemis.Host\Artemis.Biz\obj\Debug\net6.0\Artemis.Biz.csproj.CopyComplete
+C:\Users\gbb10\source\repos\Artemis.Host\Artemis.Biz\obj\Debug\net6.0\Artemis.Biz.dll
+C:\Users\gbb10\source\repos\Artemis.Host\Artemis.Biz\obj\Debug\net6.0\refint\Artemis.Biz.dll
+C:\Users\gbb10\source\repos\Artemis.Host\Artemis.Biz\obj\Debug\net6.0\Artemis.Biz.pdb
+C:\Users\gbb10\source\repos\Artemis.Host\Artemis.Biz\obj\Debug\net6.0\ref\Artemis.Biz.dll
+C:\Users\gbb10\source\repos\Artemis.Host\Artemis.Biz\bin\Debug\net6.0\Artemis.dll
+C:\Users\gbb10\source\repos\Artemis.Host\Artemis.Biz\bin\Debug\net6.0\Artemis.pdb

@@ -1,0 +1,15 @@
+C:\Users\gbb10\source\repos\Artemis.Host\Artemis.Dal\bin\Debug\net6.0\Artemis.Dal.deps.json
+C:\Users\gbb10\source\repos\Artemis.Host\Artemis.Dal\bin\Debug\net6.0\Artemis.Dal.dll
+C:\Users\gbb10\source\repos\Artemis.Host\Artemis.Dal\bin\Debug\net6.0\Artemis.Dal.pdb
+C:\Users\gbb10\source\repos\Artemis.Host\Artemis.Dal\obj\Debug\net6.0\Artemis.Dal.csproj.AssemblyReference.cache
+C:\Users\gbb10\source\repos\Artemis.Host\Artemis.Dal\obj\Debug\net6.0\Artemis.Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gbb10\source\repos\Artemis.Host\Artemis.Dal\obj\Debug\net6.0\Artemis.Dal.AssemblyInfoInputs.cache
+C:\Users\gbb10\source\repos\Artemis.Host\Artemis.Dal\obj\Debug\net6.0\Artemis.Dal.AssemblyInfo.cs
+C:\Users\gbb10\source\repos\Artemis.Host\Artemis.Dal\obj\Debug\net6.0\Artemis.Dal.csproj.CoreCompileInputs.cache
+C:\Users\gbb10\source\repos\Artemis.Host\Artemis.Dal\obj\Debug\net6.0\Artemis.Dal.csproj.CopyComplete
+C:\Users\gbb10\source\repos\Artemis.Host\Artemis.Dal\obj\Debug\net6.0\Artemis.Dal.dll
+C:\Users\gbb10\source\repos\Artemis.Host\Artemis.Dal\obj\Debug\net6.0\refint\Artemis.Dal.dll
+C:\Users\gbb10\source\repos\Artemis.Host\Artemis.Dal\obj\Debug\net6.0\Artemis.Dal.pdb
+C:\Users\gbb10\source\repos\Artemis.Host\Artemis.Dal\obj\Debug\net6.0\ref\Artemis.Dal.dll
+C:\Users\gbb10\source\repos\Artemis.Host\Artemis.Dal\bin\Debug\net6.0\Artemis.dll
+C:\Users\gbb10\source\repos\Artemis.Host\Artemis.Dal\bin\Debug\net6.0\Artemis.pdb

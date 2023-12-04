@@ -1,0 +1,12 @@
+C:\Users\gbb10\source\repos\Artemis.Host\Artemis.App.Models\bin\Debug\net6.0\Artemis.App.Models.deps.json
+C:\Users\gbb10\source\repos\Artemis.Host\Artemis.App.Models\bin\Debug\net6.0\Artemis.App.Models.dll
+C:\Users\gbb10\source\repos\Artemis.Host\Artemis.App.Models\bin\Debug\net6.0\Artemis.App.Models.pdb
+C:\Users\gbb10\source\repos\Artemis.Host\Artemis.App.Models\obj\Debug\net6.0\Artemis.App.Models.csproj.AssemblyReference.cache
+C:\Users\gbb10\source\repos\Artemis.Host\Artemis.App.Models\obj\Debug\net6.0\Artemis.App.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gbb10\source\repos\Artemis.Host\Artemis.App.Models\obj\Debug\net6.0\Artemis.App.Models.AssemblyInfoInputs.cache
+C:\Users\gbb10\source\repos\Artemis.Host\Artemis.App.Models\obj\Debug\net6.0\Artemis.App.Models.AssemblyInfo.cs
+C:\Users\gbb10\source\repos\Artemis.Host\Artemis.App.Models\obj\Debug\net6.0\Artemis.App.Models.csproj.CoreCompileInputs.cache
+C:\Users\gbb10\source\repos\Artemis.Host\Artemis.App.Models\obj\Debug\net6.0\Artemis.App.Models.dll
+C:\Users\gbb10\source\repos\Artemis.Host\Artemis.App.Models\obj\Debug\net6.0\refint\Artemis.App.Models.dll
+C:\Users\gbb10\source\repos\Artemis.Host\Artemis.App.Models\obj\Debug\net6.0\Artemis.App.Models.pdb
+C:\Users\gbb10\source\repos\Artemis.Host\Artemis.App.Models\obj\Debug\net6.0\ref\Artemis.App.Models.dll

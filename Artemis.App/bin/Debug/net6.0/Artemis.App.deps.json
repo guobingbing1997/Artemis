@@ -1,0 +1,75 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Artemis.App/1.0.0": {
+        "dependencies": {
+          "Artemis": "1.0.0",
+          "Artemis.App.Models": "1.0.0",
+          "Artemis.Biz": "1.0.0"
+        },
+        "runtime": {
+          "Artemis.App.dll": {}
+        }
+      },
+      "Artemis/1.0.0": {
+        "runtime": {
+          "Artemis.dll": {}
+        }
+      },
+      "Artemis.App.Models/1.0.0": {
+        "runtime": {
+          "Artemis.App.Models.dll": {}
+        }
+      },
+      "Artemis.Biz/1.0.0": {
+        "dependencies": {
+          "Artemis": "1.0.0",
+          "Artemis.Dal": "1.0.0"
+        },
+        "runtime": {
+          "Artemis.Biz.dll": {}
+        }
+      },
+      "Artemis.Dal/1.0.0": {
+        "dependencies": {
+          "Artemis": "1.0.0"
+        },
+        "runtime": {
+          "Artemis.Dal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Artemis.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Artemis/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Artemis.App.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Artemis.Biz/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Artemis.Dal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

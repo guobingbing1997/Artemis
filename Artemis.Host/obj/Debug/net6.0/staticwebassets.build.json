@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "CW7VdySKyP7qGQNHRBWsUiOscPzlqLqjHmsaHnDFrCM=",
+  "Source": "Artemis.Host",
+  "BasePath": "_content/Artemis.Host",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
