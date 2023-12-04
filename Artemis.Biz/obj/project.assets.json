@@ -53,11 +53,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gbb10\\source\\repos\\Artemis.Host\\Artemis.Biz\\Artemis.Biz.csproj",
+      "projectUniqueName": "D:\\学习\\Artemis\\Artemis.Biz\\Artemis.Biz.csproj",
       "projectName": "Artemis.Biz",
-      "projectPath": "C:\\Users\\gbb10\\source\\repos\\Artemis.Host\\Artemis.Biz\\Artemis.Biz.csproj",
+      "projectPath": "D:\\学习\\Artemis\\Artemis.Biz\\Artemis.Biz.csproj",
       "packagesPath": "C:\\Users\\gbb10\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gbb10\\source\\repos\\Artemis.Host\\Artemis.Biz\\obj\\",
+      "outputPath": "D:\\学习\\Artemis\\Artemis.Biz\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -80,11 +80,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\gbb10\\source\\repos\\Artemis.Host\\Artemis.Dal\\Artemis.Dal.csproj": {
-              "projectPath": "C:\\Users\\gbb10\\source\\repos\\Artemis.Host\\Artemis.Dal\\Artemis.Dal.csproj"
+            "D:\\学习\\Artemis\\Artemis.Dal\\Artemis.Dal.csproj": {
+              "projectPath": "D:\\学习\\Artemis\\Artemis.Dal\\Artemis.Dal.csproj"
             },
-            "C:\\Users\\gbb10\\source\\repos\\Artemis.Host\\Artemis\\Artemis.csproj": {
-              "projectPath": "C:\\Users\\gbb10\\source\\repos\\Artemis.Host\\Artemis\\Artemis.csproj"
+            "D:\\学习\\Artemis\\Artemis\\Artemis.csproj": {
+              "projectPath": "D:\\学习\\Artemis\\Artemis\\Artemis.csproj"
             }
           }
         }
